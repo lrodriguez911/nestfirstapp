@@ -1,4 +1,5 @@
 /* eslint-disable prettier/prettier */
+
 export enum TaskStatus {
   PENDING = 'PENDING',
   IN_PROGRES = 'IN_PROGRESS',
